@@ -1,5 +1,5 @@
 ### Hi there 👋
-James Duncan Davidson
+Sam
 <!--
 **kingjay66/kingjay66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
